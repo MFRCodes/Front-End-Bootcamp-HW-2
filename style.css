@@ -1,0 +1,41 @@
+body {
+
+    background-color: beige;
+/* I decided to use element selctors to design my website because I think they were the most appropriate for what I have. I decided to leave the background a simple color to help the text on all pages be more prominent.  */
+
+
+h1 {
+    color: brown
+}
+/* I decided to make the title and my name brown because I think a dark color against the plain background will really help keep the viewer's attention on them which is what I wnat.   */
+h2 {
+
+    color: brown;
+}
+
+
+p {
+   color: green;
+/* I wanted the texts to be green so that they could stand out against the dark color of the title and my name. */
+
+
+}
+ 
+li {
+    color: royalblue;
+/* I made the list blue so that it would standout against the beige background. */
+
+}
+
+th {
+    color: crimson;
+}
+
+td {
+    color: darkslategrey;
+}
+
+/* I overall wanted each section of my website to be a different color from each other so that they not only pop against the beige background but also so that the viewer could focus on each part seperately. I think the viewer would have difficulty focusing if the website appears monotonous. */
+
+
+}
